@@ -1,0 +1,10 @@
+[
+    {
+        "locale": "fa",
+        "translations": {
+            "Comments": "نظر ها",
+            "View Comments": "مشاهده نظرها",
+            "Comments Enabled?": "نظرها فعال است؟"
+        }
+    }
+]
