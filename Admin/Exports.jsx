@@ -3,8 +3,8 @@ import ViewComments from './Comment/View'
 
 const SocialRoutes = [
     {
-        "path": "/comments",
-        "component": Comments
+        path: "/comments",
+        component: Comments
     }
 ]
 
