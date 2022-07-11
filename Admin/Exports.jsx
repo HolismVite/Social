@@ -1,4 +1,4 @@
-import { Comments } from './Comment/List'
+import Comments from './Comment/List'
 import ViewComments from './Comment/View'
 
 const SocialRoutes = [
@@ -8,6 +8,6 @@ const SocialRoutes = [
     }
 ]
 
-export { SocialRoutes }
 export { Comments }
+export { SocialRoutes }
 export { ViewComments }
