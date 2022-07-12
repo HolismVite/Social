@@ -10,7 +10,7 @@ const ViewComments = ({
         {...rest}
         title='View comments'
         icon={CommentIcon}
-        goTo={`/comments?entityType=${entityType}&entityGuid=${entityGuid}`}
+        goTo={`/comments?entityType=${app.camelize(entityType)}&entityGuid=${entityGuid}`}
     />
 }
 
