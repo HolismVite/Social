@@ -1,4 +1,4 @@
-import { List, Text } from '@List'
+import { List, Text } from 'List'
 
 const filters = <>
     <Text

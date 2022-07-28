@@ -1,5 +1,5 @@
 import CommentIcon from '@mui/icons-material/Comment';
-import { EntityAction } from '@List'
+import { EntityAction } from 'List'
 
 const ViewComments = ({
     entityType,
